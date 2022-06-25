@@ -1,9 +1,6 @@
 /******* Bootstrap Theming ********/
-/*!
- * Bootstrap v4.5.3 (https://getbootstrap.com/)
- * Copyright 2011-2020 The Bootstrap Authors
- * Copyright 2011-2020 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+/*
+btn btn-outline-primary
  */
 :root {
   --blue: #007bff;
@@ -9981,4 +9978,24 @@ h6,
   margin: 0;
   padding: 0;
   list-style-type: none;
+}
+.github{
+  position: relative;
+        font-family: Impact;
+        letter-spacing: 2px;
+        background: linear-gradient(90deg, #150a27, #4e277b , #8241f9);
+        background-repeat: no-repeat;
+        background-color:#089e86 ;
+        background-size: 80%;
+        animation: animate 1s infinite;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: rgba(255, 255, 255, 0);
+}
+@keyframes animate {
+  0% {
+    background-position: -500%;
+  }
+  100% {
+    background-position: 500%;
+  }
 }
