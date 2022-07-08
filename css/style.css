@@ -11199,13 +11199,14 @@ h6,
 }
 
 .profile-backbround {
-  min-height: 90vh;
-  background-image: url(../img/about-bg.jpg);
+  min-height: 70vh;
+  background-image: url(https://source.unsplash.com/1600x900/?background,tech);
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center; 
   border-radius: 10px;
   background-size: cover;
+  margin-bottom: 0;
 }
 .about-backbround{
   min-height: 90vh;
