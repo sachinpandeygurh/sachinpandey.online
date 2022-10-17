@@ -563,6 +563,7 @@ mark,
 .img-fluid {
   max-width: 100%;
   height: auto;
+  border-radius: 20px;
 }
 
 .img-thumbnail {
@@ -11157,7 +11158,7 @@ h6,
 
 .blog-date {
   position: absolute;
-  width: 60px;
+  width: 70px;
   height: 60px;
   display: flex;
   align-items: center;
@@ -11200,7 +11201,8 @@ h6,
 
 .profile-backbround {
   min-height: 70vh;
-  background-image: url(https://source.unsplash.com/1600x900/?background,tech);
+  background-color: #20c997;
+  /* background-image: url(https://source.unsplash.com/1600x900/?background,tech); */
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center; 
@@ -11219,7 +11221,3 @@ h6,
   border-radius: 50px;
   
 }
-
-
-.adslot-desktop { width: 320px; height: 50px; }
-@media (min-width: 500px) { .adslot-desktop { width: 468px; height: 60px; } }

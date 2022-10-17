@@ -1,3 +1,6 @@
+
+// import icons from "./bootstrap-icons"
+
 (function ($) {
     "use strict";
 
