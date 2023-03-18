@@ -42,6 +42,6 @@ If you have any questions or suggestions regarding this project, feel free to re
 
 ## Author
 ##### Sachin Pandey
-for more information visit portfolio
+for more information visit [portfolio](https://sachinpandey.online/)
 
 Another github: https://github.com/aytsachin
